@@ -27,7 +27,6 @@ Une application web moderne pour gérer votre collection de films, développée 
 - **React.js** - Framework JavaScript moderne
 - **Redux Toolkit** - Gestion d'état centralisée
 - **React Router** - Navigation entre les pages
-- **Tailwind CSS** - Styling moderne et responsive
 
 ### API
 - **TMDb API** - Base de données de films
